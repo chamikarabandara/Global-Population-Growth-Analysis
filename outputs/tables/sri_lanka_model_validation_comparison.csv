@@ -1,0 +1,4 @@
+Model,MAE
+Naive Baseline,137400.0
+Global Linear Regression,289272.74
+Sri Lanka-Specific Linear Regression,484499.97
